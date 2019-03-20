@@ -1,0 +1,20 @@
+<resources>
+    //Strings used by the xml layout file
+    <string name="app_name">Blizzard Quiz App</string>
+    <string name="Question_1">1.What was Blizzard\'s first game?</string>
+    <string name="Question_2">2.When was HearthStone released?</string>
+    <string name="date">Date</string>
+    <string name="Question_3">3.How many characters are there in Overwatch?</string>
+    <string name="Question_4">4.Which ones are the two newest heroes in Overwatch?</string>
+    <string name="Question_5">5.How many expansions does WoW have?</string>
+    <string name="submit">Submit</string>
+    <string name="results">Results: </string>
+
+    //Strings used in the java file
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_got">You got</string>
+    <string name="p_of_q_right">\% of the questions right!</string>
+    <string name="sweet">Sweet!</string>
+    <string name="not_bad">Not bad!</string>
+    <string name="p_unfortunate">\%. Well, that\'s unfortunate :P</string>
+</resources>
